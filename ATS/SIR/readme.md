@@ -2,7 +2,11 @@
 
 Seja bem-vinda, recrutadora. Este diretório contém o racional por trás do **SIR (Strategic Intelligence Resume) 3.0**, um framework desenvolvido por Guilherme Puentes para alinhar tecnologia de ponta com as necessidades de negócio.
 
+> [!TIP]
+> **Leitura Obrigatória:** [🚀 Por que o currículo de TI do Guilherme Puentes é diferente? (Manifesto 2026)](../ARTICLE_2026.md)
+
 ## O Racional: Por que Guilherme Puentes?
+
 
 Muitas vezes, perfis com alta senioridade técnica podem parecer "desalinhados" com vagas operacionais ou de gestão média. O SIR 3.0 resolve isso traduzindo competências complexas em **Valor Mensurável (ROI)**.
 
@@ -22,3 +26,10 @@ Como um profissional neurodivergente (TEA, TDAH, Dislexia), Guilherme opera em c
 **Guilherme Puentes**
 *Consultor Principal | Product Design & Automação*
 👉 [Conecte-se no LinkedIn](https://linkedin.com/in/guilhermepuentes)
+📄 [CV IA & DevOps](https://link.online.des.br/cv-ia-devops) | [CV UX & Design](https://link.online.des.br/cv-ux-pd)
+
+## 📞 Contato & Networking
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermepuentes)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512991528871)
+
+

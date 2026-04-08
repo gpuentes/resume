@@ -1,6 +1,6 @@
 # Currículo | Guilherme Puentes
 
-[📄 Baixar Currículo em PDF (Versão Completa)](https://arquivo.online.des.br/docs/DevOps_Guilherme_Puentes-iA.pdf)
+[📄 Baixar Currículo em PDF (Versão IA & DevOps)](https://link.online.des.br/cv-ia-devops) | [📄 Versão UX & Product Design](https://link.online.des.br/cv-ux-pd)
 
 ## Resumo Executivo: Analista de Automação e Prompts | Product Designer (UI/UX)
 ## Cursos Complementares

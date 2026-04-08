@@ -18,3 +18,7 @@ A transparência sobre a neurodivergência (TEA, TDAH, Dislexia) é posicionada 
 
 ## 4. Matriz de Decisão
 O framework SIR calcula um Score (0-1000) para cada vaga, priorizando aquelas onde a stack técnica (Figma, Docker, n8n, IA) e a visão sistêmica podem gerar lucro ou economia imediata.
+---
+## 📞 Contato & Networking
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermepuentes)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512991528871)

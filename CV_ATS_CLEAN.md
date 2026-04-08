@@ -32,3 +32,4 @@ Consultor Principal com foco em Product Design Híbrido e Automação Inteligent
 
 ---
 *Versão otimizada para leitura automatizada (ATS).*
+*Saudações Humanos*

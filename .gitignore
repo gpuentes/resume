@@ -1,5 +1,9 @@
-# Arquivos e scripts de operação e backup locais
+# Arquivos de operação e scripts locais
 sync_to_c.ps1
 README_STABILITY.md
 CRAIR_plano.txt
 git-26.txt
+
+# Arquivos de rascunho e versões antigas (SIR)
+SIR_ats_novo_GEM.txt
+SIR_old_com_citacao_.txt

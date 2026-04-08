@@ -3,13 +3,6 @@
 [📄 Baixar Currículo em PDF (Versão Completa)](https://arquivo.online.des.br/docs/DevOps_Guilherme_Puentes-iA.pdf)
 
 ## Resumo Executivo: Analista de Automação e Prompts | Product Designer (UI/UX)
-
-| Área de Foco | Descrição e Competências-Chave |
-| :--- | :--- |
-| **Experiência Central** | Consultor Principal com foco em Product Design Híbrido e Automação Inteligente. Especialista em UX, integração de dados e construção de produtos digitais com ROI mensurável. Foco em soluções de alto impacto via IA e automação (n8n, LLMs). |
-| **DevOps e Infraestrutura** | Expertise em Deploy de soluções em **Docker** e orquestração **Swarm**. Gestão de DNS e **Traefik**, curadoria de VPS e integração de APIs. |
-| **Design de Produto & Dados** | Visão de Produto: Prototipagem rápida (MVP), testes de hipóteses e implementação ágil *end-to-end*. Criação de dashboards operacionais integrando sistemas como **Odoo, Drupal, Chatwoot, PostgreSQL, MySql e Supabase**. |
-
 ## Cursos Complementares
 
 | Curso | Instituição | Carga Horária (h) | Conclusão |
@@ -31,6 +24,14 @@
 | Inglês Instrumental I | Veris meu inglês | 80 | 12/2011 |
 | Téc. em Informática - Ênfase Web | Colégio Adventista do Vale | 400 | 12/2009 |
 
+| Área de Foco | Descrição e Competências-Chave |
+| :--- | :--- |
+| **Experiência Central** | Consultor Principal com foco em Product Design Híbrido e Automação Inteligente. Especialista em UX, integração de dados e construção de produtos digitais com ROI mensurável. Foco em soluções de alto impacto via IA e automação (n8n, LLMs). |
+| **DevOps e Infraestrutura** | Expertise em Deploy de soluções em **Docker** e orquestração **Swarm**. Gestão de DNS e **Traefik**, curadoria de VPS e integração de APIs. |
+| **Design de Produto & Dados** | Visão de Produto: Prototipagem rápida (MVP), testes de hipóteses e implementação ágil *end-to-end*. Criação de dashboards operacionais integrando sistemas como **Odoo, Drupal, Chatwoot, PostgreSQL, MySql e Supabase**. |
+
+
+
 ## 🌐 Links & Recursos (Master List)
 
 Esta seção consolida os portfólios e pontos de contato estratégicos para diferentes tipos de oportunidades:
@@ -43,4 +44,10 @@ Esta seção consolida os portfólios e pontos de contato estratégicos para dif
 ### Plataformas & Documentação
 *   **Design System Beti:** [ds.websolutions.eti.br](https://ds.websolutions.eti.br/)
 *   **Acelerador Web Solutions:** [acelerador.websolutions.eti.br](https://acelerador.websolutions.eti.br/)
-*   **Documentação GP (.pdf):** [arquivo.online.des.br/.../Documentacao_Gerente_Projetos.pdf](https://arquivo.online.des.br/documentos/Documentacao_para_Gerente_Projetos.pdf)
+*   **Documentação GP (.pdf):** [arquivo.online.des.br/.../Documentacao_Gerente_Projetos.pdf](https://arquivo.online.des.br/documentos/Documentacao_para_Gerente_Projetos.pdf)
+
+
+---
+## 📞 Contato & Networking
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermepuentes)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512991528871)

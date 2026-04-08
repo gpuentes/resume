@@ -1,3 +1,8 @@
+---
+## 📞 Contato & Networking
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermepuentes)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512991528871)
+
 # GUILHERME PUENTES
 **Consultor Principal | Product Design Híbrido | Automação & IA**
 WhatsApp: (12) 99152-8871
@@ -33,3 +38,5 @@ Consultor Principal com foco em Product Design Híbrido e Automação Inteligent
 ---
 *Versão otimizada para leitura automatizada (ATS).*
 *Saudações Humanos*
+
+

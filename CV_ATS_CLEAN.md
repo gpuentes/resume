@@ -15,60 +15,60 @@ Consultor Principal com +15 anos de experiência em Product Design Híbrido e Au
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-### Consultor de Soluções & IA Ops | Web Solutions ETI
+### Consultor Principal & Arquiteto de IA Ops | Web Solutions ETI
 **2020 – Presente**
 
-- **Situação:** Pequenas e médias empresas com processos manuais repetitivos e custos elevados de infraestrutura cloud.
-- **Impacto:** Implementação de fluxos de automação com n8n + LLMs (Gemini, GPT) e migração de servidores legados para Oracle Cloud Infrastructure (OCI) com Docker Swarm e Traefik.
-- **ROI:** Aumento de 61% na recuperação de leads via automação de follow-up e redução de 100% nos custos fixos de hospedagem (economia de R$ 2.700/ano por cliente).
-- Orquestração de stack completa: PostgreSQL, Supabase, Chatwoot, Odoo, Drupal e n8n em ambiente Docker Swarm.
-- Criação de agentes de IA para triagem de atendimento e geração de conteúdo automatizada.
-- Gestão de DNS, certificados SSL (Let's Encrypt) e pipelines de CI/CD.
+- **Foco:** Diagnóstico operacional e implementação de ecossistemas digitais de alta performance.
+- **Impacto:** Automação de lead scoring e atendimento via n8n + LLMs (Gemini/GPT), gerando **+61% de recuperação de leads**.
+- **Infra:** Migração total de workloads para Docker Swarm na Oracle Cloud (OCI), zerando custos fixos de infraestrutura anterior.
+- Gestão de Design Systems escaláveis e auditorias de Acessibilidade Radical (WCAG 2.1).
 
-### Product Designer Sênior | Vetta.Digital (SMS Group)
-**2023 – 2024**
+### Product Designer (Design Ops) | Compass.Uol
+**Set/2024 – Dez/2024 (Híbrido)**
 
-- **Situação:** Alta fricção no handoff de design para engenharia em dashboards complexos de monitoramento de energia industrial.
-- **Impacto:** Refatoração completa de componentes e tokens do Design System no Figma, espelhando a produção e eliminando inconsistências entre design e código.
-- **ROI:** Redução de 38% no tempo de handoff, eliminando retrabalho e acelerando o time-to-market do time de engenharia.
-- Prototipagem rápida de MVPs para validação com stakeholders internos.
-- Documentação de padrões de acessibilidade (A11y) e Design Tokens para o time de front-end.
+- Atuação em Design Systems de larga escala, focando em viabilidade técnica e Handoff Zero.
+- Implementação de padrões de acessibilidade (A11y) em componentes críticos para grandes players.
 
----
+### Product Designer Sênior (Design Systems) | Vetta.Digital (SMS Group)
+**2022 – 2023 (Dois Vínculos)**
 
-## COMPETÊNCIAS TÉCNICAS
+- Refatoração completa de Design Tokens e componentes complexos para dashboards industriais.
+- **ROI:** Redução de **38% no tempo de entrega** da engenharia front-end por eliminação de inconsistências de interface.
 
-- **Design & UX:** Figma, Design Systems, Prototipagem rápida (MVP), Testes de hipóteses, Acessibilidade (A11y), UX Research.
-- **Automação & IA:** n8n, Engenharia de Prompt, Agentes de IA (Gemini, GPT), Integração de APIs, Webhooks.
-- **DevOps & Dados:** Docker, Swarm, Traefik, PostgreSQL, MySQL, Supabase, Odoo, Drupal, OCI.
-- **Desenvolvimento:** HTML, CSS, JavaScript, Gestão de VPS, Git/GitHub.
+### Analista de Sistemas / Product Designer | Just Digital (Grupo Squadra)
+**2021 – 2022**
+
+- Design de soluções para contas como Ambev e OdontoPrev.
+- Otimização de fluxos em ecossistemas Drupal e implementação de melhorias baseadas em dados de usabilidade.
 
 ---
 
-## CURSOS E CERTIFICAÇÕES
+## COMPETÊNCIAS TÉCNICAS (SENIOR UNIFIED AGENT)
 
-- IA para Gestão de Negócios – Inner Academy (12/2025)
-- Web Accessibility (WAI0.1x) – W3Cx – edx (12/2024)
-- UX-PM Level 2 – UX alliance - MSUX (11/2024)
-- UX para todos – Howplus (10/2023)
-- UX Designer – Design Circuit 2.0 (12/2023)
-- Interface do Usuário – Deploy – D.Strava (12/2022)
-- UI/UX & Prototype Web – Cel.Lep Tech (04/2021)
-- Fundamentos Design de Interface UI/UX – USP (11/2019)
-- Web Master Business – Upinside treinamentos (11/2018)
-- Work Control - Developer – Upinside treinamentos (12/2016)
-- WebDesigner – IBTA (07/2013)
-- Téc. em Informática (Ênfase Web) – Colégio Adventista (12/2009)
+- **Design Ops:** Figma (Advanced), Design Systems (Tokens/Components), WCAG 2.1 Specialist.
+- **AI Ops:** n8n (Orquestração), LLM Integration, RAG (Retrieval-Augmented Generation), Prompt Engineering.
+- **Infra & DevOps:** Docker Swarm, OCI, Linux, Traefik, PostgreSQL, Supabase.
+- **Handoff Zero:** Comunicação técnica fluida entre Design e Engenharia (Background em Dev Front-end).
+
+---
+
+## CURSOS E CERTIFICAÇÕES ESTRATÉGICAS
+
+- **IA para Gestão de Negócios** (Inner Academy - 2025)
+- **Web Accessibility Specialist (W3Cx / edX)** - ID: `2e29c71...`
+- **UX-PM Level 2 (Management)** - UX Alliance (2024)
+- **Sistemas para Internet** (Bacharelado - UNIBTA)
+- **UX Designer (Design Circuit 2.0)** - 90h de especialização.
 
 ---
 
 ## LINKS & VERSÕES DO CV
 
-- CV IA & DevOps: link.online.des.br/cv-devops
-- CV UX & Product Design: link.online.des.br/cv-uxui
-- CV Frontend PT-BR: link.online.des.br/cv-frontend-br
-- CV Frontend EN: link.online.des.br/cv-frontend-en
-- Certificações: github.com/gpuentes/resume
+- CV IA & DevOps: [link.online.des.br/cv-devops](https://link.online.des.br/cv-devops)
+- CV UX & Design de Produto: [link.online.des.br/cv-uxui](https://link.online.des.br/cv-uxui)
+- CV Frontend PT-BR: [link.online.des.br/cv-frontend-br](https://link.online.des.br/cv-frontend-br)
+- CV Frontend EN: [link.online.des.br/cv-frontend-en](https://link.online.des.br/cv-frontend-en)
+- Certificações: [github.com/gpuentes/resume](https://github.com/gpuentes/resume)
 
 ---
 *Versão otimizada para leitura automatizada (ATS). Atualizado em abril/2026.*

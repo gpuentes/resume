@@ -19,6 +19,7 @@
 # === Arquivos de operação e scripts locais ===
 sync_to_c.ps1
 sync_novos_pdfs.ps1
+push_vitrine.ps1
 CRAIR_plano.txt
 git-26.txt
 
@@ -38,6 +39,7 @@ img/*
 
 # === Pasta ATS (bastidores — vive na branch ats) ===
 ATS/
+ATS/GUILHERME_KNOWLEDGE_BASE.md
 
 # === Workspace local (VS Code) ===
 *.code-workspace

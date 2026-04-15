@@ -17,6 +17,23 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap"
         rel="stylesheet">
+
+    <!-- SEO & IA Optimization (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Guilherme Puentes",
+      "jobTitle": "Consultor Principal | Product Design | IA & Automação",
+      "url": "https://cv.gscpweb.com.br",
+      "sameAs": [
+        "https://linkedin.com/in/guilhermepuentes",
+        "https://github.com/gpuentes/resume"
+      ],
+      "knowsAbout": ["Artificial Intelligence", "DevOps", "UX Design", "Product Strategy", "n8n Automation", "ROI"],
+      "description": "Consultor sênior com +15 anos de experiência focada em transformar design e automação em ROI mensurável."
+    }
+    </script>
     <style>
         *,
         *::before,
@@ -569,6 +586,53 @@
             <a href="https://websolutions.eti.br" target="_blank">Powered by WUXIA-OPS v3.0</a>
         </footer>
     </div>
+    <script>
+        // Configurações de Rastreio (TROQUE PELA URL DO SEU WEBHOOK N8N)
+        const webhookUrl = 'SUA_URL_DO_N8N_AQUI'; 
+        const sessionStart = Date.now();
+
+        function trackVisit(action) {
+            const data = {
+                timestamp: new Date().toISOString(),
+                page: window.location.pathname,
+                action: action,
+                duration: Math.floor((Date.now() - sessionStart) / 1000),
+                userAgent: navigator.userAgent
+            };
+            
+            // Beacon API é melhor para sair sem travar a UI
+            if (navigator.sendBeacon) {
+                navigator.sendBeacon(webhookUrl, JSON.stringify(data));
+            } else {
+                fetch(webhookUrl, { method: 'POST', body: JSON.stringify(data), mode: 'no-cors' });
+            }
+        }
+
+        // Rastrear entrada e saída
+        window.addEventListener('load', () => trackVisit('entry'));
+        window.addEventListener('beforeunload', () => trackVisit('exit'));
+
+        // Contador Visual para Debug (Pode ser removido depois)
+        console.log("GEPTO Intelligence: Rastreando sessão para https://cv.gscpweb.com.br");
+    </script>
+
+    <!-- Chatwoot Integration (Oficial Web Solutions ETI) -->
+    <script>
+      window.chatwootSettings = {"position":"right","type":"standard","launcherTitle":"Fale conosco no chat"};
+      (function(d,t) {
+        var BASE_URL="https://chat.online.des.br";
+        var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+        g.src=BASE_URL+"/packs/js/sdk.js";
+        g.async = true;
+        s.parentNode.insertBefore(g,s);
+        g.onload=function(){
+          window.chatwootSDK.run({
+            websiteToken: 'LJGKM1wEfNg4WRiqAHGh4Q2U',
+            baseUrl: BASE_URL
+          })
+        }
+      })(document,"script");
+    </script>
 </body>
 
 </html>

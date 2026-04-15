@@ -1,0 +1,2 @@
+# Este arquivo garante que a pasta img/ exista no repositório.
+# O conteúdo (screenshots, prints) é ignorado via .gitignore.

@@ -1,8 +1,40 @@
 # Currículo | Guilherme Puentes
 
-[📄 Baixar Currículo em PDF (Versão IA & DevOps)](https://link.online.des.br/cv-ia-devops) | [📄 Versão UX & Product Design](https://link.online.des.br/cv-ux-pd)
+**Consultor Principal | Product Design Híbrido | Automação & IA**
 
-## Resumo Executivo: Analista de Automação e Prompts | Product Designer (UI/UX)
+---
+
+## 📄 Versões do Currículo
+
+### 🇧🇷 Português (PT-BR)
+
+[![CV IA & DevOps](https://img.shields.io/badge/🚀_IA_&_DevOps-Download_PDF-6366f1?style=for-the-badge)](https://link.online.des.br/cv-devops)
+[![CV UX & Product Design](https://img.shields.io/badge/🎨_UX_&_Product_Design-Download_PDF-ec4899?style=for-the-badge)](https://link.online.des.br/cv-uxui)
+[![CV Frontend UX-DevOps](https://img.shields.io/badge/💻_Frontend_UX--DevOps-Download_PDF-8b5cf6?style=for-the-badge)](https://link.online.des.br/cv-frontend-br)
+
+### 🇺🇸 English (EN)
+
+[![CV Frontend EN](https://img.shields.io/badge/💻_Frontend_UX--DevOps-Download_PDF-10b981?style=for-the-badge)](https://link.online.des.br/cv-frontend-en)
+[![CV PCD Hybrid EN](https://img.shields.io/badge/♿_PCD_Hybrid-Download_PDF-f59e0b?style=for-the-badge)](https://link.online.des.br/cv-pcd-hybrid)
+[![CV PCD Early SE](https://img.shields.io/badge/♿_PCD_Early_SE-Download_PDF-f59e0b?style=for-the-badge)](https://link.online.des.br/cv-pcd-early)
+
+### 🌐 Landing Page
+> Acesse a versão web interativa: **[cv.gscpweb.com.br](https://cv.gscpweb.com.br)**
+
+---
+
+## Resumo Executivo
+
+Consultor Principal com **+15 anos de experiência** em Product Design Híbrido e Automação Inteligente. Especialista em UX, integração de dados e construção de produtos digitais com ROI mensurável.
+
+| Área de Foco | Descrição e Competências-Chave |
+| :--- | :--- |
+| **Experiência Central** | Consultor Principal com foco em Product Design Híbrido e Automação Inteligente. Especialista em UX, integração de dados e construção de produtos digitais com ROI mensurável. Foco em soluções de alto impacto via IA e automação (n8n, LLMs). |
+| **DevOps e Infraestrutura** | Expertise em Deploy de soluções em **Docker** e orquestração **Swarm**. Gestão de DNS e **Traefik**, curadoria de VPS e integração de APIs. Migração para **Oracle Cloud (OCI)**. |
+| **Design de Produto & Dados** | Visão de Produto: Prototipagem rápida (MVP), testes de hipóteses e implementação ágil *end-to-end*. Criação de dashboards operacionais integrando sistemas como **Odoo, Drupal, Chatwoot, PostgreSQL, MySQL e Supabase**. |
+
+---
+
 ## Cursos Complementares
 
 | Curso | Instituição | Carga Horária (h) | Conclusão |
@@ -24,28 +56,20 @@
 | Inglês Instrumental I | Veris meu inglês | 80 | 12/2011 |
 | Téc. em Informática - Ênfase Web | Colégio Adventista do Vale | 400 | 12/2009 |
 
-| Área de Foco | Descrição e Competências-Chave |
-| :--- | :--- |
-| **Experiência Central** | Consultor Principal com foco em Product Design Híbrido e Automação Inteligente. Especialista em UX, integração de dados e construção de produtos digitais com ROI mensurável. Foco em soluções de alto impacto via IA e automação (n8n, LLMs). |
-| **DevOps e Infraestrutura** | Expertise em Deploy de soluções em **Docker** e orquestração **Swarm**. Gestão de DNS e **Traefik**, curadoria de VPS e integração de APIs. |
-| **Design de Produto & Dados** | Visão de Produto: Prototipagem rápida (MVP), testes de hipóteses e implementação ágil *end-to-end*. Criação de dashboards operacionais integrando sistemas como **Odoo, Drupal, Chatwoot, PostgreSQL, MySql e Supabase**. |
+---
 
+## 🌐 Links & Recursos
 
-
-## 🌐 Links & Recursos (Master List)
-
-Esta seção consolida os portfólios e pontos de contato estratégicos para diferentes tipos de oportunidades:
-
+*   **Landing Page CV:** [cv.gscpweb.com.br](https://cv.gscpweb.com.br/)
+*   **Portfólio & Blog:** [portfolio.gscpweb.com.br](https://portfolio.gscpweb.com.br/)
 *   **Principal (Híbrido):** [guilherme.online.des.br](https://guilherme.online.des.br/)
-*   **Foco UX/UI:** [portfolio.gscpweb.com.br](https://portfolio.gscpweb.com.br/)
-*   **Foco Gestão & TI:** [gscpweb.com.br](https://gscpweb.com.br/)
+*   **Gestão & TI:** [gscpweb.com.br](https://gscpweb.com.br/)
 *   **WhatsApp:** [(12) 99152-8871](https://wa.me/5512991528871)
 
 ### Plataformas & Documentação
 *   **Design System Beti:** [ds.websolutions.eti.br](https://ds.websolutions.eti.br/)
 *   **Acelerador Web Solutions:** [acelerador.websolutions.eti.br](https://acelerador.websolutions.eti.br/)
 *   **Documentação GP (.pdf):** [arquivo.online.des.br/.../Documentacao_Gerente_Projetos.pdf](https://arquivo.online.des.br/documentos/Documentacao_para_Gerente_Projetos.pdf)
-
 
 ---
 ## 📞 Contato & Networking

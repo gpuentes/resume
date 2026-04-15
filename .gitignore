@@ -16,13 +16,28 @@
 # WhatsApp: (12) 99152-8871 | Branch estratégica: 'ats'
 ###############################################################################
 
-# Arquivos de operação e scripts locais
-
+# === Arquivos de operação e scripts locais ===
 sync_to_c.ps1
-README_STABILITY.md
+sync_novos_pdfs.ps1
 CRAIR_plano.txt
 git-26.txt
 
-# Arquivos de rascunho e versões antigas (SIR)
+# === Arquivos internos / bastidores ===
+DASHBOARD_CARREIRA.md
+GEPTO_CONTINUE.md
+README_STABILITY.md
+
+# === Rascunhos e versões antigas (SIR) ===
 SIR_ats_novo_GEM.txt
 SIR_old_com_citacao_.txt
+
+# === Imagens locais (screenshots, prints, rascunhos) ===
+img/*
+!img/.gitkeep
+1_versao_resumo.png
+
+# === Pasta ATS (bastidores — vive na branch ats) ===
+ATS/
+
+# === Workspace local (VS Code) ===
+*.code-workspace

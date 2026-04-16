@@ -43,3 +43,6 @@ ATS/GUILHERME_KNOWLEDGE_BASE.md
 
 # === Workspace local (VS Code) ===
 *.code-workspace
+
+# === Local Context & RAG (Keep local only) ===
+contexto_e_RAG/

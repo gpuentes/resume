@@ -4,11 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Guilherme Puentes | Consultor Principal — IA, DevOps & Product Design</title>
+    <title>Guilherme Puentes | Arquiteto de Soluções — UX, IA & DevOps</title>
     <meta name="description"
-        content="Consultor Principal com +15 anos de experiência em Product Design Híbrido, Automação Inteligente (n8n, IA) e Infraestrutura Escalável (Docker/OCI). Confira as versões do meu currículo.">
+        content="Arquiteto de Soluções com +15 anos de experiência em Product Design Híbrido, IA & Automação Inteligente (n8n) e Infraestrutura Escalável (Docker/OCI).">
     <meta name="author" content="Guilherme Puentes">
-    <meta property="og:title" content="Guilherme Puentes | Consultor Principal">
+    <meta property="og:title" content="Guilherme Puentes | Product Design & DevOps">
     <meta property="og:description"
         content="Product Design Híbrido • Automação & IA • DevOps. Confira meu currículo atualizado.">
     <meta property="og:type" content="website">
@@ -24,7 +24,7 @@
       "@context": "https://schema.org",
       "@type": "Person",
       "name": "Guilherme Puentes",
-      "jobTitle": "Consultor Principal | Product Design | IA & Automação",
+      "jobTitle": "Arquiteto de Soluções | UX & Product Design | IA & Automação | Frontend",
       "url": "https://cv.gscpweb.com.br",
       "sameAs": [
         "https://linkedin.com/in/guilhermepuentes",
@@ -588,7 +588,7 @@
     </div>
     <script>
         // Configurações de Rastreio (TROQUE PELA URL DO SEU WEBHOOK N8N)
-        const webhookUrl = 'SUA_URL_DO_N8N_AQUI'; 
+        const webhookUrl = 'SUA_URL_DO_N8N_AQUI';
         const sessionStart = Date.now();
 
         function trackVisit(action) {
@@ -599,7 +599,7 @@
                 duration: Math.floor((Date.now() - sessionStart) / 1000),
                 userAgent: navigator.userAgent
             };
-            
+
             // Beacon API é melhor para sair sem travar a UI
             if (navigator.sendBeacon) {
                 navigator.sendBeacon(webhookUrl, JSON.stringify(data));
@@ -618,20 +618,20 @@
 
     <!-- Chatwoot Integration (Oficial Web Solutions ETI) -->
     <script>
-      window.chatwootSettings = {"position":"right","type":"standard","launcherTitle":"Fale conosco no chat"};
-      (function(d,t) {
-        var BASE_URL="https://chat.online.des.br";
-        var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-        g.src=BASE_URL+"/packs/js/sdk.js";
-        g.async = true;
-        s.parentNode.insertBefore(g,s);
-        g.onload=function(){
-          window.chatwootSDK.run({
-            websiteToken: 'LJGKM1wEfNg4WRiqAHGh4Q2U',
-            baseUrl: BASE_URL
-          })
-        }
-      })(document,"script");
+        window.chatwootSettings = { "position": "right", "type": "standard", "launcherTitle": "Fale conosco no chat" };
+        (function (d, t) {
+            var BASE_URL = "https://chat.online.des.br";
+            var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+            g.src = BASE_URL + "/packs/js/sdk.js";
+            g.async = true;
+            s.parentNode.insertBefore(g, s);
+            g.onload = function () {
+                window.chatwootSDK.run({
+                    websiteToken: 'LJGKM1wEfNg4WRiqAHGh4Q2U',
+                    baseUrl: BASE_URL
+                })
+            }
+        })(document, "script");
     </script>
 </body>
 
